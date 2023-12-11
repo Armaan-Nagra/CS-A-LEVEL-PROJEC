@@ -1,0 +1,6 @@
+TO DO:
+-Implement HUD to show amount of enemies left.
+-implement tank 
+-implement logic so that the enemy moves without bumping into each other. 
+-fix the fact that I cannot kill enemies when they are shooting me
+

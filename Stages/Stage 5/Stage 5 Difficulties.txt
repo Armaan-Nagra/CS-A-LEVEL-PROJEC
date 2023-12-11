@@ -1,0 +1,5 @@
+Stage 5 Difficulties:
+Stage 5.1(creating the background map), this was the easiest part, only difficuly was using photoshop
+Stage 5.2(Creating the player class), I did not have any coding difficulties, I just found it difficult to think about how the infrastructure will work. (what methods and attributes I need).
+Stage 5.3(Creating the weapon class), I had a lot of difficulties with the bullets, I did not know where to store the bullets as when I shot, the bullet count would go to 99 and then back to 100, I realised I was creating an object in the main loop so my code was getting repeated. Therefore I fixed this by creating an object outside the loop. Another issue was that the bullets were firing too fast, therefore I created logic which relies on the clock, to add a cooldown.
+Stage 5.4(Creating the enemy class), hardest part of my project, did not know how to start and did not have a clear plan, creating the enemy spritesheet was fairly straight forward. knowing 
