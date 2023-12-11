@@ -109,7 +109,7 @@ class enemy(pygame.sprite.Sprite):
                 else:
                     self.moving = True
                     self.stop1_passed = None #variable is set to none so that this conditional statement is not run again.
-                self.x -= scroll_speed
+                self.x -= scroll_speed #asdfasd
                 
 
             #checks if enemy is on the second stop and changes variables appropriately
